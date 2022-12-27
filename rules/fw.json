@@ -3,7 +3,7 @@
   "backup_notice": "Не отключайте питание во время обновления прошивки! Это может привести к повреждению устройства !",
   "status_note": "-",
   "buildver": 20201007,
-  "url": "https://google.com",
+  "url": "http://download-ott.bolshoe.tv/fw/uhdx/UHDX-20201007-ota-v7.1.867-Elite-Ott.zip",
   "md5": "7e68d33e7d08b191d7ad466ff8117e32",
   "size": "770559199"
 }
