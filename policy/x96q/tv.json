@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "response": [
+    {
+      "title": "VagonTV - 4000 телеканалов",
+      "creator": "Vagon TV",
+      "package_name": "com.vagon.tv",
+      "version_code": 63,
+      "download_link": "http://download-ott.bolshoe.tv/apps/uhdx/vagonTv-2.0.27-63-release.apk",
+      "poster": "https://i.ibb.co/WsYkXsR/ic-select-tv-vagon.jpg"
+    },
+    {
+      "title": "Peers.TV: телевизор ОНЛАЙН ТВ",
+      "creator":"Peers.TV, Inetra LCC",
+      "package_name": "ru.cn.tv",
+      "version_code": 12989,
+      "download_link": "http://download-ott.bolshoe.tv/apps/uhdx/ru.cn.tv-6.24.17-12989-uhd300x-release.apk",
+      "poster": "https://i.ibb.co/Sdwpz0w/ic-select-tv-peers.jpg"
+    },
+    {
+      "title": "Лайм HD TV: цифровое ТВ онлайн",
+      "creator":"Лайм ЭйчДи",
+      "package_name": "tv.limehd.stb",
+      "version_code": 81,
+      "download_link": "http://download-ott.bolshoe.tv/apps/uhdx/lime-stb_v103c81.apk",
+      "poster": "https://i.ibb.co/Bf0t5gF/ic-select-tv-lime.jpg"
+    },
+    {
+      "title": "Большое ТВ: ТВ каналы",
+      "creator":"Bolshoe TV",
+      "package_name": "info.goodline.btvstb",
+      "version_code": 392,
+      "download_link": "http://download-ott.bolshoe.tv/apps/uhdx/btv-1.48.2-392-uhd300x-release.apk",
+      "poster": "https://i.ibb.co/c1nkWZc/ic-select-tv-bolshoe.jpg"
+    }
+  ]
+}

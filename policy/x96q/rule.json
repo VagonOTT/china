@@ -1,0 +1,12 @@
+ [
+ 	{
+ 		"package_name": "info.goodline.goodflix",
+ 		"download_url": "http://download-ott.bolshoe.tv/apps/uhdx/goodflix-2.0.53-493-uhd300x-release.apk",
+ 		"versionCode": 0
+ 	},
+ 	{
+ 		"package_name": "gpm.tnt_premier",
+ 		"download_url": "http://download-ott.bolshoe.tv/apps/uhdx/tnt_premier-2.19.0.apk",
+ 		"versionCode": 989960
+ 	}
+ ]
