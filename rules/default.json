@@ -3,5 +3,10 @@
  		"package_name": "gpm.tnt_premier",
  		"download_url": "http://download-ott.bolshoe.tv/apps/uhdx/tnt_premier-2.19.0.apk",
  		"versionCode": 989960
+ 	},
+ 	{
+ 		"package_name": "info.goodline.settings",
+ 		"download_url": "http://download-ott.bolshoe.tv/apps/uhdx/settings-release.apk",
+ 		"versionCode": 61
  	}
  ]
