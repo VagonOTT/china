@@ -8,5 +8,10 @@
  		"package_name": "info.goodline.settings",
  		"download_url": "http://download-ott.bolshoe.tv/apps/uhdx/settings-release.apk",
  		"versionCode": 61
+ 	},
+ 	{
+ 		"package_name": "info.goodline.launcher",
+ 		"download_url": "http://download-ott.bolshoe.tv/apps/uhdx/launcher-4.0.4-603-x96q-release.apk",
+ 		"versionCode": 603
  	}
  ]
