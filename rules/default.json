@@ -13,5 +13,10 @@
  		"package_name": "info.goodline.launcher",
  		"download_url": "http://download-ott.bolshoe.tv/apps/uhdx/launcher-4.0.4-603-x96q-release.apk",
  		"versionCode": 603
+ 	},
+ 	{
+ 		"package_name": "info.goodline.updateservice",
+ 		"download_url": "http://download-ott.bolshoe.tv/apps/uhdx/updateservice-1.0.9-9-release.apk",
+ 		"versionCode": 9
  	}
  ]
