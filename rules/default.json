@@ -1,22 +1,7 @@
  [
  	{
- 		"package_name": "info.goodline.updateservice",
- 		"download_url": "http://download-ott.bolshoe.tv/apps/uhdx/updateservice-1.0.9-9-release.apk",
- 		"versionCode": 9
- 	},
- 	{
- 		"package_name": "gpm.tnt_premier",
- 		"download_url": "http://download-ott.bolshoe.tv/apps/uhdx/tnt_premier-2.19.0.apk",
- 		"versionCode": 989960
- 	},
- 	{
- 		"package_name": "info.goodline.settings",
- 		"download_url": "http://download-ott.bolshoe.tv/apps/uhdx/settings-release.apk",
- 		"versionCode": 61
- 	},
- 	{
  		"package_name": "info.goodline.launcher",
- 		"download_url": "http://download-ott.bolshoe.tv/apps/uhdx/launcher-4.0.5-604-x96q-release.apk",
- 		"versionCode": 604
+ 		"download_url": "http://download-ott.bolshoe.tv/apps/uhdx/launcher-4.0.7-607-x96q-release.apk",
+ 		"versionCode": 607
  	}
  ]
