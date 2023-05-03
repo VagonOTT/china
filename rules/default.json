@@ -16,7 +16,7 @@
  	},
  	{
  		"package_name": "com.android.vending",
- 		"download_url": "https://download-ott2.bolshoe.tv/apps/uhdx/GooglePlay_32.0.19-21_8_PR.apk",
+ 		"download_url": "http://download-ott2.bolshoe.tv/apps/uhdx/GooglePlay_32.0.19-21_8_PR.apk",
  		"versionCode": 83201908
  	}
  ]
