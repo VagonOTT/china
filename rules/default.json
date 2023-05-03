@@ -10,11 +10,6 @@
  		"versionCode": 13
  	},
  	{
- 		"package_name": "org.mozilla.tv.firefox2",
- 		"download_url": "http://download-ott2.bolshoe.tv/apps/uhdx/firefox-4.8.1_RU-12-system-release.apk",
- 		"versionCode": 71111319
- 	},
- 	{
  		"package_name": "com.google.android.gms",
  		"download_url": "http://download-ott2.bolshoe.tv/apps/uhdx/com.google.android.gms_23.14.17_231417015.apk",
  		"versionCode": 231417015
