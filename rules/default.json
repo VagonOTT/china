@@ -9,6 +9,11 @@
  		"download_url": "http://download-ott.bolshoe.tv/apps/uhdx/freebie-1.0.13-13-release.apk",
  		"versionCode": 13
  	},
+  {
+ 		"package_name": "org.browser.firefox",
+ 		"download_url": "http://download-ott2.bolshoe.tv/apps/uhdx/firefox-4.8.3_RU-14-system-release.apk",
+ 		"versionCode": 71241039
+ 	},
  	{
  		"package_name": "com.google.android.gms",
  		"download_url": "http://download-ott2.bolshoe.tv/apps/uhdx/com.google.android.gms_23.14.17_231417015.apk",
