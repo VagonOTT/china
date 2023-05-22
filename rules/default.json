@@ -1,27 +1,7 @@
  [
  	{
- 		"package_name": "info.goodline.launcher",
- 		"download_url": "http://download-ott.bolshoe.tv/apps/uhdx/launcher-4.0.10-610-x96q-release.apk",
- 		"versionCode": 610
- 	},
- 	{
- 		"package_name": "ru.catalogue.freebie",
- 		"download_url": "http://download-ott.bolshoe.tv/apps/uhdx/freebie-1.0.13-13-release.apk",
- 		"versionCode": 13
- 	},
-  {
- 		"package_name": "org.browser.firefox",
- 		"download_url": "http://download-ott2.bolshoe.tv/apps/uhdx/firefox-4.8.3_RU-14-system-release.apk",
- 		"versionCode": 71241039
- 	},
- 	{
- 		"package_name": "com.google.android.gms",
- 		"download_url": "http://download-ott2.bolshoe.tv/apps/uhdx/com.google.android.gms_23.14.17_231417015.apk",
- 		"versionCode": 231417015
- 	},
- 	{
- 		"package_name": "com.android.vending",
- 		"download_url": "http://download-ott2.bolshoe.tv/apps/uhdx/GooglePlay_32.0.19-21_8_PR.apk",
- 		"versionCode": 83201908
+ 		"package_name": "info.goodline.updateservice",
+ 		"download_url": "http://download-ott2.bolshoe.tv/apps/uhdx/updateservice-1.0.29-29-release.apk",
+ 		"versionCode": 29
  	}
  ]
