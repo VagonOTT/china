@@ -2,6 +2,15 @@
   "success": true,
   "response": [
     {
+      "title": "Большое ТВ: ТВ каналы",
+      "creator":"Bolshoe TV",
+      "package_name": "info.goodline.btvstb",
+      "version_code": 392,
+      "download_link": "http://download-ott.bolshoe.tv/apps/uhdx/btv-1.48.2-392-uhd300x-release.apk",
+      "download_poster":"",
+      "poster": "https://i.ibb.co/c1nkWZc/ic-select-tv-bolshoe.jpg"
+    },
+    {
       "title": "VagonTV - 4000 телеканалов",
       "creator": "Vagon TV",
       "package_name": "com.vagon.tv",
@@ -27,15 +36,6 @@
       "download_link": "http://download-ott.bolshoe.tv/apps/uhdx/lime-stb_v103c81.apk",
       "download_poster":"",
       "poster": "https://i.ibb.co/Bf0t5gF/ic-select-tv-lime.jpg"
-    },
-    {
-      "title": "Большое ТВ: ТВ каналы",
-      "creator":"Bolshoe TV",
-      "package_name": "info.goodline.btvstb",
-      "version_code": 392,
-      "download_link": "http://download-ott.bolshoe.tv/apps/uhdx/btv-1.48.2-392-uhd300x-release.apk",
-      "download_poster":"",
-      "poster": "https://i.ibb.co/c1nkWZc/ic-select-tv-bolshoe.jpg"
     }
   ]
 }
